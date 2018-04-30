@@ -73,3 +73,11 @@ Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+*/Build
+*/Intermediate
+*/Binaries
+*/DerivedDataCache
+*/Saved
+*_BuiltData.uasset
+
+
